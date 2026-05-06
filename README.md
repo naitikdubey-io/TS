@@ -49,6 +49,9 @@ The platform parses user-uploaded resumes (PDF/DOCX) and specific Job Descriptio
 | **Core Framework** | React 19 (Latest) |
 | **Build Tool** | Vite 8 |
 | **Styling** | Vanilla CSS with HSL variables & Glassmorphism |
+| **Backend / DB** | Supabase (PostgreSQL + Auth) |
+| **AI Backend** | Google Gemini 2.5-Flash (REST) |
+| **State Sync** | Hybrid LocalStorage + Supabase Cloud Sync |
 | **Animations** | Framer Motion 12 |
 | **AI Backend** | Google Gemini API (via custom integration) |
 | **Document Parsing** | PDF.js (for PDFs) & Mammoth.js (for DOCX) |
