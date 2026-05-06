@@ -1,20 +1,39 @@
 # GrabIt : Your Ultimate AI Mock Interviews and Career Readiness Platform
 
-![GrabIt AI Logo](https://img.shields.io/badge/AI-Mock_Interview-blueviolet?style=for-the-badge&logo=openai)
+![GrabIt Logo](https://img.shields.io/badge/AI-Mock_Interview-blueviolet?style=for-the-badge&logo=openai)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-black?style=for-the-badge&logo=framer)
 
+## 🚀 Key Features
+
+GrabIt is packed with powerful features designed to simulate real-world interview conditions and provide actionable insights.
+
+- **🤖 AI-Led Conversational Interviews**: Experience natural, flowing conversations with an AI that listens, understands, and probes deeper into your answers.
+- **📄 Smart Document Parsing**: Upload your **Resume (PDF/DOCX)** and **Job Description**. GrabIt's engine parses these to tailor every question to your specific background and the role's requirements.
+- **🎙️ Real-Time Transcription**: Integrated Speech-to-Text allows you to speak your answers naturally, just like in a real interview.
+- **📊 Live Performance Analytics**:
+    - **Technical Score**: Measures the accuracy and depth of your subject matter knowledge.
+    - **Behavioral Stability**: Analyzes your confidence, tone, and structural clarity.
+    - **Session Progress**: Keep track of where you are in the interview flow.
+- **🛣️ Personalized Improvement Roadmaps**: After each session, receive a custom-generated learning path with specific topics and resources to master.
+- **🎯 Single Question Practice**: Don't have time for a full interview? Focus on specific high-frequency questions in "Drill Mode."
+- **📈 Progress Dashboard**: A centralized hub to view your overall readiness, past scores, and improvement trends.
+- **💼 Career Opportunities**: Access a curated list of job opportunities that match your skills and practice performance.
+- **✨ Premium Experience**: Sleek, glassmorphic UI with smooth animations (Framer Motion) for a professional, distraction-free environment.
+
+---
+
 ## ❖ Proposed Solution
 ### Detailed Explanation
-**GrabIt AI** is a state-of-the-art, end-to-end mock interview ecosystem designed to transform how candidates prepare for high-stakes technical and behavioral interviews. Unlike traditional preparation methods that rely on static question banks, GrabIt AI utilizes **Generative AI (Gemini API)** to create a dynamic, conversational experience that mimics a real human interviewer. 
+**GrabIt** is a state-of-the-art, end-to-end mock interview ecosystem designed to transform how candidates prepare for high-stakes technical and behavioral interviews. Unlike traditional preparation methods that rely on static question banks, GrabIt utilizes **Generative AI (Gemini API)** to create a dynamic, conversational experience that mimics a real human interviewer. 
 
 The platform parses user-uploaded resumes (PDF/DOCX) and specific Job Descriptions to generate highly contextual questions, ensuring that every practice session is tailored to the individual's career goals and the specific role they are targeting.
 
 ### How it Addresses the Problem
-1. **The Anxiety Gap**: Many candidates excel technically but struggle with articulation and pressure. GrabIt AI provides a safe, low-stakes environment to build "muscle memory" for interview responses.
-2. **Generic Preparation**: Most prep tools offer generic questions. GrabIt AI analyzes the user's actual background and the company's requirements to ask deep, relevant questions.
-3. **Delayed Feedback**: Human mock interviews are expensive and hard to schedule. GrabIt AI provides **instant, granular feedback** on technical accuracy, behavioral stability, and communication clarity.
+1. **The Anxiety Gap**: Many candidates excel technically but struggle with articulation and pressure. GrabIt provides a safe, low-stakes environment to build "muscle memory" for interview responses.
+2. **Generic Preparation**: Most prep tools offer generic questions. GrabIt analyzes the user's actual background and the company's requirements to ask deep, relevant questions.
+3. **Delayed Feedback**: Human mock interviews are expensive and hard to schedule. GrabIt provides **instant, granular feedback** on technical accuracy, behavioral stability, and communication clarity.
 
 ### Innovation and Uniqueness
 - **Real-Time Vocal Analysis**: Integrates Speech-to-Text (STT) to analyze not just what is said, but how it is articulated.
@@ -86,7 +105,7 @@ The project is highly feasible as it leverages stable, production-ready technolo
 ## 🚀 How to Run Locally
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/grabit-ai.git
+   git clone https://github.com/yourusername/grabit.git
    ```
 2. **Install dependencies**:
    ```bash
@@ -111,4 +130,4 @@ The project is highly feasible as it leverages stable, production-ready technolo
 
 ---
 
-Designed with ❤️ by the GrabIt AI Team.
+Designed with ❤️ by the GrabIt Team.
