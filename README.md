@@ -1,4 +1,4 @@
-# GrabIt : Your Ultimate AI Mock Interviews and Career Readiness Platform
+# GrabIt :  AI Mock Interviews and Career Readiness Platform
 
 ![GrabIt Logo](https://img.shields.io/badge/AI-Mock_Interview-blueviolet?style=for-the-badge&logo=openai)
 ![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
